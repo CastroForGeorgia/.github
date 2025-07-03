@@ -1,6 +1,6 @@
-# Andres Castro for the Working Class: Open Source Campaign
+# CastroForGeorgia for the Working Class: Open Source Campaign
 
-Welcome to the official GitHub Organization of **[CastroForGeorgia's campaign](https://andrescastro.us)**—an open-source effort dedicated to championing the rights, dignity, and prosperity of working families and marginalized communities. This organization houses our campaign’s digital tools, policy ideas, and collaborative projects aimed at building an inclusive and equitable future for all.
+Welcome to the official GitHub Organization of **[Castro for Georgia](https://castroforgeorgia.com)**—an open-source effort dedicated to championing the rights, dignity, and prosperity of working families and marginalized communities. This organization houses our campaign’s digital tools, policy ideas, and collaborative projects aimed at building an inclusive and equitable future for all.
 
 ---
 
@@ -70,15 +70,23 @@ When people unite around shared values, transformation becomes possible. Open so
 
 ## License
 
-All projects within this GitHub Organization are released under open-source licenses (e.g., [MIT License](https://opensource.org/licenses/MIT)) to encourage broad collaboration and usage. Feel free to adapt our materials to your own campaigns, community initiatives, or research—together, we can drive progressive change nationwide.
+All projects within this GitHub Organization are released under open-source licenses to encourage broad collaboration and usage. Feel free to adapt our materials to your own campaigns, community initiatives, or research—together, we can drive progressive change nationwide.
+
+- **Code**: [MIT License](https://opensource.org/licenses/MIT)  
+- **Content (docs, flyers, etc.)**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+- **Official logos, candidate likeness, and branding**: All rights reserved
 
 ---
 
 ### Contact
 
-- **Website**: [andrescastro.us](https://andrescastro.us)  
-- **Email**: [contact@andrescastro.us](mailto:contact@andrescastro.us)  
-- **Bluesky**: [@castroforgeorgia.com](https://bsky.app/profile/castroforgeorgia.com)
+- **Website**: [castroforgeorgia.com](https://castroforgeorgia.com)  
+- **Email**: [hello@castroforgeorgia.com](mailto:hello@castroforgeorgia.com)  
+- **Media Requests**: [press@castroforgeorgia.com](mailto:press@castroforgeorgia.com)  
+- **Bluesky**: [@castroforgeorgia.com](https://bsky.app/profile/castroforgeorgia.com)  
+- **GitHub**: [CastroForGeorgia](https://github.com/CastroForGeorgia)  
+- **Volunteer**: [Get Involved](https://castroforgeorgia.com/contact/)
+
 ---
 
 We invite you to collaborate, innovate, and build with us. Let’s work together to advance economic justice, break down systemic barriers, and make our government truly representative of all working people. Your contributions, big or small, help shape the future we envision—one where every family can thrive with dignity, opportunity, and security.
